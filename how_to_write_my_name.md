@@ -4,3 +4,5 @@ If you have a different way feel free to open a PR!
 - aurora
 - auri
 - awowa
+- uwuwa
+- uwura

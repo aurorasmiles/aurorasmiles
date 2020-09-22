@@ -6,3 +6,5 @@ If you have a different way feel free to open a PR!
 - awowa
 - uwuwa
 - uwura
+- uhruhra
+- aur**å**ra

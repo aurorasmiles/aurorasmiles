@@ -8,3 +8,4 @@ If you have a different way feel free to open a PR!
 - uwura
 - uhruhra
 - aur**å**ra
+- awuwuwas

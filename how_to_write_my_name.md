@@ -9,3 +9,4 @@ If you have a different way feel free to open a PR!
 - uhruhra
 - aur**å**ra
 - awuwuwas
+- aurra

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aurora</h1>
-<h3 align="center">A wannabe cute dev person?</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurorasmiles" alt="aurorasmiles" /> </p>
 You might know me from various Minecraft Discords! 
 I usually work on the following stuff:

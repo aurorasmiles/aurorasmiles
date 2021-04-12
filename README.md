@@ -7,7 +7,7 @@ I usually work on the following stuff:
 [FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit/) - a high performance Fork of WorldEdit.
 I usually help with supporting and moderating the Discord and GitHub issues, but I also fix some issues now and then
 
-[BungeePerms](https://github.com/weaondara/BungeePerms) - a permissions plugin for BungeeCord/Velocity and Spigot/PaperSpigot.
+[BungeePerms](https://github.com/weaondara/BungeePerms) - a permissions plugin for BungeeCord/Velocity and Spigot/Paper.
 I maintain BungeePerms together with my partner, who created BungeePerms in the first place
 
 [PaperMC](https://github.com/papermc) - a Minecraft Software organization focusing on improving the Minecraft ecosystem with faster and more secure software.

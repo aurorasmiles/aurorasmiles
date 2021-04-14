@@ -5,7 +5,7 @@ You might know me from various Minecraft Discords!
 I usually work on the following stuff:
 
 [PaperMC](https://github.com/papermc) - a Minecraft Software organization focusing on improving the Minecraft ecosystem with faster and more secure software.
-I'm part of the moderation team on the [PaperMC Discord Server](https://discord.gg/papermc) and part of the Triage team on GitHub
+I'm part of the moderation team on the [PaperMC Discord Server](https://discord.gg/papermc) and part of the Triage team on GitHub.
 
 [Incendo](https://github.com/Incendo) - I'm the system administrator for Incendo, an open source software project.
 

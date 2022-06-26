@@ -5,7 +5,7 @@ You might know me from various Minecraft Discords!
 I usually work on the following stuff:
 
 [PaperMC](https://github.com/papermc) - a Minecraft Software organization focusing on improving the Minecraft ecosystem with faster and more secure software.
-I'm part of the moderation team on the [PaperMC Discord Server](https://discord.gg/papermc) and part of the Development team on GitHub.
+I'm part one of the Community Managers at PaperMC.
 
 [Incendo](https://github.com/Incendo) - I'm the system administrator for Incendo, an open source software project.
 
@@ -15,6 +15,7 @@ I usually help with supporting and moderating the Discord and GitHub issues, but
 [BungeePerms](https://github.com/weaondara/BungeePerms) - a permissions plugin for BungeeCord/Velocity and Spigot/Paper.
 I maintain BungeePerms together with my partner, who created BungeePerms in the first place
 
+Outside of Minecraft I'm also part of the [Queer Lexikon e.V.](https://queer-lexikon.net/), one of germanys biggest nonprofits for queer kids and youth.
 
 If you would like to support my work, I'd be more than grateful if you sponsor me on GitHub.
 For any questions, please feel free to contact me on Discord: aurora#4484
